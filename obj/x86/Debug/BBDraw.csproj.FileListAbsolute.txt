@@ -1,0 +1,8 @@
+E:\Projects\C# Projects\BBDraw\bin\Debug\BBDraw.exe
+E:\Projects\C# Projects\BBDraw\bin\Debug\BBDraw.pdb
+E:\Projects\C# Projects\BBDraw\bin\Debug\PlayerIOClient.dll
+E:\Projects\C# Projects\BBDraw\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\C# Projects\BBDraw\obj\x86\Debug\BBDraw.exe
+E:\Projects\C# Projects\BBDraw\obj\x86\Debug\BBDraw.pdb
+E:\Projects\C# Projects\BBDraw\bin\Debug\BBDraw.exe.config
+E:\Projects\C# Projects\BBDraw\bin\Debug\BB Artist.exe.config

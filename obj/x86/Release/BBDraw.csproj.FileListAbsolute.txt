@@ -1,0 +1,7 @@
+C:\Dokumente und Einstellungen\Admin\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\BBDraw\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Projects\C# Projects\BBDraw\bin\Release\BBDraw.exe
+E:\Projects\C# Projects\BBDraw\bin\Release\BBDraw.pdb
+E:\Projects\C# Projects\BBDraw\bin\Release\PlayerIOClient.dll
+E:\Projects\C# Projects\BBDraw\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Projects\C# Projects\BBDraw\obj\x86\Release\BBDraw.exe
+E:\Projects\C# Projects\BBDraw\obj\x86\Release\BBDraw.pdb
