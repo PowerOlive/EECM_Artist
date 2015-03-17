@@ -116,7 +116,7 @@ namespace BB_Artist {
 			}
 		}
 
-		int difco(byte[] c, byte[] k) {
+		int color_difference(byte[] c, byte[] k) {
 			int e = 0;
 			e += Math.Abs(c[0] - k[0]);
 			e += Math.Abs(c[1] - k[1]);
@@ -283,7 +283,7 @@ namespace BB_Artist {
 
 						for (int j = 0; j < colors.Length; j++) {
 							for (int k = 0; k < colors[j].Length; k++) {
-								int d = difco(colors[j][k], c);
+								int d = color_difference(colors[j][k], c);
 								if (d < diff) {
 									diff = d;
 									id = k;
