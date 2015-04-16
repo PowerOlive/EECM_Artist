@@ -1,0 +1,8 @@
+# Ignore bin and obj directories
+
+obj/
+
+# Ignore local data
+
+*.suo
+*.user
